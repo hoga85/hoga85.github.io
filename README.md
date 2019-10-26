@@ -1,2 +1,2 @@
 # hoga85.github.io
-Very first webpage!! 
+Personal Webpage, a space simply about myself, which includes both acadimic and personal activities.
