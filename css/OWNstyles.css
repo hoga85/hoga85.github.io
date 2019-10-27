@@ -16,7 +16,7 @@ body {
 }
 
 .card-title {
-  color: #e16879;
+  color: #071663;
   font-family: 'Vollkorn', serif;
   font-weight: 500;
 }
@@ -28,7 +28,8 @@ body {
 
 
 
-.icon1{ background: url("../img/pattern1.png") repeat-x;}
+.icon1{ background: url("../img/pattern1.png") repeat-x;
+        background-size: 200px;}
 
 /*h1, h2, h3, h4, h5, h6 {
   font-family: "Oswald", sans-serif;
@@ -47,10 +48,15 @@ body {
 .jumbotron_home{
   background-image: url("../img/robot_figure.png");
   background-size: cover;
-  color: white;
+  color: black;
 }
 
-
+/* Additional stuff for life-accountant.html page */
+.jumbotron_thought{
+  background-image: url("../img/thought.jpg");
+  background-size: cover;
+  color: white;
+}
 
 .zoomin{
     transition: -webkit-transform 0.10s ease;
