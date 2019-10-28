@@ -58,6 +58,15 @@ body {
   color: white;
 }
 
+
+.jumbotron_resume{
+  background-image: url("../img/resume-cover.png");
+  background-size: cover;
+  color: black;
+}
+
+
+
 .zoomin{
     transition: -webkit-transform 0.10s ease;
 }
